@@ -1,5 +1,5 @@
 CMakeFiles/Tutorial.dir/tutorial.cxx.o: \
-  /Users/junjiehu/Downloads/cmake-3.27.0-rc3-tutorial-source/Step1/tutorial.cxx \
+  /Users/junjiehu/Downloads/cmake-learn/cmake-tutorial/Step1/tutorial.cxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/cmath \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__assert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__config \

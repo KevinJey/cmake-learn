@@ -15,3 +15,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 # Hint: Be sure to specify the source file as tutorial.cxx
 add_executable(Tutorial tutorial.cxx)
 # TODO 9: Use target_include_directories to include ${PROJECT_BINARY_DIR}
+message(STATUS "${PROJECT_BINARY_DIR}")

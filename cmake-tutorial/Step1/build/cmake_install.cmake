@@ -1,4 +1,4 @@
-# Install script for directory: /Users/junjiehu/Downloads/cmake-3.27.0-rc3-tutorial-source/Step1
+# Install script for directory: /Users/junjiehu/Downloads/cmake-learn/cmake-tutorial/Step1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/junjiehu/Downloads/cmake-3.27.0-rc3-tutorial-source/Step1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/junjiehu/Downloads/cmake-learn/cmake-tutorial/Step1/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
